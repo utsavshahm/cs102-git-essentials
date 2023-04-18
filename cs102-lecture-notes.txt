@@ -4,3 +4,5 @@ git add [file]: add a file as it looks now to your next commit (stage)
 git init: initialize an existing directory as a Git repository
 git clone [url]: retrieve an entire repository from a hosted location via URL
 
+
+Many things I have learned in today's lecture including introduction to markdown language.
